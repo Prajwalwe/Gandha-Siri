@@ -1,6 +1,9 @@
 # Gandha-Siri (ಗಂಧ-ಸಿರಿ) 🌳
 
-![Gandha-Siri App Screenshot](app_screenshot.png)
+<p align="center">
+  <img src="app_screenshot.png" width="300" title="Gandha-Siri App Interface">
+</p>
+
 
 **Android App Development using GenAI - Natural Resources**
 
