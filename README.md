@@ -1,4 +1,7 @@
 # Gandha-Siri (ಗಂಧ-ಸಿರಿ) 🌳
+
+![Gandha-Siri App Screenshot](app_screenshot.png)
+
 **Android App Development using GenAI - Natural Resources**
 
 Gandha-Siri is a digital guardian for Sandalwood farmers. It aims to revitalize the "Sandalwood State" status by removing the fear of theft and legal complexity.
