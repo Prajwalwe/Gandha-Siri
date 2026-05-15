@@ -36,7 +36,7 @@ Follow these steps to set up the project locally for evaluation:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/Prajwalwe/Gandha-Siri.git](https://github.com/Prajwalwe/Gandha-Siri.git)```
+   git clone https://github.com/Prajwalwe/Gandha-Siri.git```
  2. **Open in Android Studio**
    * Launch Android Studio (Ladybug or newer recommended).
    * Select **Open** and navigate to the cloned Gandha-Siri folder.
@@ -51,7 +51,5 @@ Follow these steps to set up the project locally for evaluation:
  2. Click the **Run** (green play icon) in the top toolbar of Android Studio.
  3. Alternatively, use the terminal command:
 ```bash
-   ./gradlew installDebug
-   
-   ```
+   ./gradlew installDebug```
 
