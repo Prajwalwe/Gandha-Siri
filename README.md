@@ -30,3 +30,32 @@ app/src/main/java/com/gandhasiri/
 ├── domain/     # Business logic & Growth calculators
 ├── security/   # Alert systems and mesh network logic
 └── ui/         # Jetpack Compose screens and themes
+I understand—you want the **Setup & Installation** and **How to Run** sections formatted correctly so they appear as part of the professional documentation required for your evaluation.
+Here is the exact Markdown code for those sections to ensure you meet the "Strongly recommended" criteria for setup and run instructions.
+```markdown
+## 🚀 Setup & Installation
+Follow these steps to set up the project locally for evaluation:
+
+1. **Clone the Repository**
+   ```bash
+   git clone [https://github.com/Prajwalwe/Gandha-Siri.git](https://github.com/Prajwalwe/Gandha-Siri.git)
+
+```
+ 2. **Open in Android Studio**
+   * Launch Android Studio (Ladybug or newer recommended).
+   * Select **Open** and navigate to the cloned Gandha-Siri folder.
+ 3. **Sync Project with Gradle Files**
+   * Wait for the IDE to finish the Gradle sync to download dependencies like Jetpack Compose and Google Play Services.
+ 4. **Environment Requirements**
+   * **Minimum SDK:** 24
+   * **Target SDK:** 34
+   * **JDK:** 17
+## 🏃 How to Run
+ 1. Connect an Android device via USB (with Debugging enabled) or start an Emulator.
+ 2. Click the **Run** (green play icon) in the top toolbar of Android Studio.
+ 3. Alternatively, use the terminal command:
+   ```bash
+   ./gradlew installDebug
+   
+   ```
+
