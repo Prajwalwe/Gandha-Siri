@@ -26,7 +26,7 @@ Sandalwood is a high-value resource in Karnataka, but farmers often avoid growin
 ## 📂 Project Structure
 ```text
 app/src/main/java/com/gandhasiri/
-[span_1](start_span)├── data/       # Room DB entities and local storage[span_1](end_span)
-[span_2](start_span)├── domain/     # Business logic & Growth calculators[span_2](end_span)
+├── data/       # Room DB entities and local storage
+├── domain/     # Business logic & Growth calculators
 ├── security/   # Alert systems and mesh network logic
-[span_3](start_span)└── ui/         # Jetpack Compose screens and themes[span_3](end_span)
+└── ui/         # Jetpack Compose screens and themes
