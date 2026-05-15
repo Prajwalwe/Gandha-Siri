@@ -51,5 +51,5 @@ Follow these steps to set up the project locally for evaluation:
  2. Click the **Run** (green play icon) in the top toolbar of Android Studio.
  3. Alternatively, use the terminal command:
 ```bash
-   ./gradlew installDebug```
+   ./gradlew installDebug
 
