@@ -30,8 +30,6 @@ app/src/main/java/com/gandhasiri/
 ├── domain/     # Business logic & Growth calculators
 ├── security/   # Alert systems and mesh network logic
 └── ui/         # Jetpack Compose screens and themes
-I understand—you want the **Setup & Installation** and **How to Run** sections formatted correctly so they appear as part of the professional documentation required for your evaluation.
-Here is the exact Markdown code for those sections to ensure you meet the "Strongly recommended" criteria for setup and run instructions.
 ```
 ## 🚀 Setup & Installation
 Follow these steps to set up the project locally for evaluation:
